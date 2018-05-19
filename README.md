@@ -1,3 +1,3 @@
-# Headline
+# Software Craftsmanship Turkey
 
-> An awesome project.
+# Türkiye Yazılım Ustalığı Topluluğu
