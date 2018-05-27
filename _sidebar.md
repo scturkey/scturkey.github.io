@@ -1,6 +1,6 @@
-
-* [About / Hakkımızda](about.md)
+* [About / Hakkımızda](README.md)
 * [Meetups / Etkinlikler](meetups.md)
+* [Sponsors / Sponsorlar](sponsors.md)
+* [Videos / Videolar](videos.md)
 * [Organizers / Organizatörler](organizers.md)
-* [How to contribute / Nasıl Katkı Sağlarım](contribute.md)
 * [Contact / İletişim](contact.md)
