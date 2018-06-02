@@ -1,6 +1,41 @@
 
 ## Events / Etkinlikler
 
+* [Taha Özket](https://twitter.com/tahaozket) - Cloud Native nedir? Var olan projemi nasıl Cloud Native hale getirebilirim?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pAnxIXhO-w?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br><br>
+
+* [Hasan Ünal](https://twitter.com/hasanunalcom) - Java 9: Açık, Modüler, Küçük
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_2B27oTbeNs?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br><br>
+
+* [Lemi Orhan Ergin](https://twitter.com/lemiorhan) - Git Anti-Patterns (Extended)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ncUdXv7maA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br><br>
+
+* [Hüseyin Mert](https://twitter.com/hmert) - Basit Mimariler İle Ölçekleme
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMG3xYwICQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br><br>
+
+* [Mesut Can Gürle](https://twitter.com/mesutcang) - Going Reactive using RxJava
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMG3xYwICQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br><br>
+
+* [Lemi Orhan Ergin](https://twitter.com/lemiorhan) - Lemi's Way for Preparing and Presenting Talks
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M-RWsVSbAqE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br><br>
+
+* [Mert Susur](https://twitter.com/MertSusur) - GraphQL 101 - REST servislerin nesi eksik?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SXaqNuY9mYo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br><br>
+
 * [Akın Kaldıroğlu](https://twitter.com/kaldiroglu) - Farklı Diller Açısından Nesne-Merkezli Programlama: C++, Java ve C#
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V5oL4jTwU-I?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
