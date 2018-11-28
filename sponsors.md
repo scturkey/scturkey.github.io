@@ -5,6 +5,7 @@
 </a>
 
 <br>
+
 ## Gift Sponsorship / Hediye Sponsoru
 
 <a href="http://www.oreilly.com/pub/cpc/150311">
